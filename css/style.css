@@ -483,4 +483,16 @@ body{
     #nav .fa-navicon{
         margin-top: -3px;
     }
+    .footer p{
+        float: none;
+        text-align: center;
+    }
+    .footer .social{
+        float: none;
+        text-align: center;
+    }
+    .choice .box .button{
+        width: 150px;
+        font-size: 13px;
+    }
 }
